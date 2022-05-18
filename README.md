@@ -13,8 +13,9 @@ devtools::install_github("TheRFrog/shinyNORRRM")
 - from the package (see below)
 
 ```r
-library(shinyNORRRM)
 # entry level app
+library(shinyNORRRM)
+# run the app
 shinyNORRRM()
 
 
