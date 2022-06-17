@@ -1,6 +1,6 @@
 \name{adjRock}
 \alias{adjRock}
-\title{Recalculate the compositions of the rocks in an anhydrous basis (volatile-free; 100% adjusted)}
+\title{Recalculate the compositions of the rocks in an anhydrous basis (volatile-free; 100\% adjusted)}
 \usage{adjRock(data, Type = "Volcanic", Fe.adjustment = "Middlemost", Cancrinite= FALSE, Calcite= FALSE)
 }
 \arguments{
