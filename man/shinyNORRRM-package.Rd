@@ -19,7 +19,7 @@ shinyNORRRM::shinyNORRRM()
 Useful links:
 \itemize{
   \item \url{https://github.com/TheRFrog/shinyNORRRM}
-  \item Report bugs at \url{https://github.com/TheRFrog/shinyNORRR/issues/}
+  \item Report bugs at \url{https://github.com/TheRFrog/shinyNORRRM/issues}
 }
 }
 \author{
