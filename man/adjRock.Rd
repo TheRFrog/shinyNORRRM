@@ -5,7 +5,7 @@
 }
 \arguments{
   \item{data}{
-a whole rock major and trace element chemical data (as percent %). It is important to note that Fe2O3 or FeO could be Fe2O3T or FeOT if any of this values are NA or 0.
+a whole rock major and trace element chemical data (as percent \%). It is important to note that Fe2O3 or FeO could be Fe2O3T or FeOT if any of this values are NA or 0.
   }
   \item{Type}{
 rock type, if the argument is "Volcanic" is shown the volcanic rock type after (Le Bas et al., 1986), iron oxidation ratio is calculated following the equation of Le Maitre (1976) for Volcanic rocks, if the argument is "Plutonic", then Plutonic adjusts are done.
