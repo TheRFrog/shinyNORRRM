@@ -1,0 +1,13 @@
+# Do not edit by hand
+
+export(shinyNORRRM)
+export(adjRock)
+export(Indices)
+export(ultimateCIPW)
+import(shiny)
+import(shinythemes)
+import(shinyWidgets)
+import(pracma)
+import(Ternary)
+
+
