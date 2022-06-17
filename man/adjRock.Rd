@@ -1,7 +1,6 @@
 \name{adjRock}
 \alias{adjRock}
 \title{Recalculate the compositions of the rocks in an anhydrous basis (volatile-free; 100% adjusted)}
-
 \usage{adjRock(data, Type = "Volcanic", Fe.adjustment = "Middlemost", Cancrinite= FALSE, Calcite= FALSE)
 }
 \arguments{
@@ -52,5 +51,3 @@ adjRock(EAP, Type= "Volcanic", Fe.adjustment = "Middlemost", Cancrinite = FALSE,
 \strong{Maintainer}: Reneé González-Guzmán \email{rguzman@geociencias.unam.mx} (\href{https://orcid.org/0000-0001-7773-6401}{ORCID})
 }
 \keyword{programming}
-
-
