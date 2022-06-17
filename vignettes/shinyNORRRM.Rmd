@@ -1,0 +1,50 @@
+---
+title: "shinyNORRRM"
+author: "maintained by Reneé González-Guzmán"
+date: "`r Sys.Date()`"
+output: rmarkdown::html_document
+
+vignette: >
+  %\VignetteIndexEntry{The ultimate CIPW Norm}
+  %\VignetteEngine{knitr::rmarkdown}
+  %\VignetteEncoding{UTF-8}
+---
+
+"shinyNORRM" is an R package to get an efficient CIPW algorithm and igneous rock classification system written in R and running in shiny... I hope that it proves simple to use.
+
+For simple use
+Shiny app:
+
+```{r shiny-app, eval = FALSE}
+install.packages("shinyNORRRM")
+Ternary::shinyNORRRM()
+```
+Or if you want the latest development version of the package:
+
+```{R Github package, eval = FALSE}
+if (!require("devtools")) install.packages("devtools")
+install_github("TheRFrog/shinyNORRRM")
+```
+
+Once the package is installed, load it into the current R session with 
+```{R Load}
+library("shinyNORRRM")
+```
+
+There are two stages to creating a ternary plot: first, rendering the plot, styled
+as you like it and pointing in any of the four compass directions; secondly, adding data.
+
+
+## Input a database
+
+At its simplest, all you need to do is type
+```{shiny run}
+TernaryPlot()
+```
+
+
+## Bugs and feature requests
+
+I hope the package proves useful. If there"s anything it can"t do that you wish
+it could, please let me know by opening a
+[Github issue](https://github.com/ms609/Ternary/issues/new?title=Suggestion:+).
