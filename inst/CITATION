@@ -1,0 +1,13 @@
+citHeader(paste0("When using this package, please cite González-Guzmán (2012)"))
+
+citEntry(entry = "article",
+         key = "Gonzalez2022",
+         journal = "SoftwareX",
+         author = personList(as.person("Reneé González-Guzmán")),
+         title = "shinyNORRRM",
+         year = "2022",
+
+         textVersion =
+         paste0("González-Guzmán (2022).",
+                "shinyNORRRM: An R-based software for calculate the CIPW Norm.",
+                "Comprehensive R Archive Network"))
