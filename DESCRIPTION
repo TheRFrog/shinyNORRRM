@@ -1,0 +1,21 @@
+Package: shinyNORRRM
+Type: Package
+Title: The Ultimate Igneous Norm
+Version: 0.8.6
+Date: 2022-06-20
+Authors@R: c(person("Carlos Eduardo", "Sánchez Torres", role = "aut"),
+             person("Kevin Samuel", "Cárdenas-Muñoz", role = "aut"),
+             person("Luis Alejandro", "Elizondo-Pacheco", role = "aut"),
+			 person("Reneé", "González-Guzmán",
+                    email = "rguzman@geociencias.unam.mx",
+                    role = c("cre"), 
+                    comment = c(ORCID = "0000-0001-7773-6401")))
+Imports: shiny,shinythemes,shinyWidgets,pracma,Ternary,grDevices,graphics,utils
+Description: The computer program is an efficient igneous norm algorithm and rock classification system written in R but run as shiny app.
+URL: https://github.com/TheRFrog/shinyNORRRM
+BugReports: https://github.com/TheRFrog/shinyNORRRM/issues/
+License: GPL-3
+Depends: R (>= 4.2.0)
+Encoding: UTF-8
+LazyData: true
+RoxygenNote: 7.1.2
