@@ -3,7 +3,7 @@ Reproduce the CIPW Norm
 
 ## Installation
 
-As this package is not currently on CRAN, install it via devtools:
+This package is currently on CRAN but you can install it via devtools (enjoy!):
 
 ```r
 devtools::install_github("TheRFrog/shinyNORRRM")
