@@ -18,7 +18,7 @@ library(shinyNORRRM)
 # run the app
 shinyNORRRM()
 
-## Access Apps
+## Templates
 
 Four templates files (*.csv format) can be downloaded at 
 shinyNORRRM/inst/extdata/
