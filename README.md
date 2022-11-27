@@ -24,3 +24,6 @@ shinyNORRRM()
 [Dr. Reneé González Guzmán] (mailto:rguzman@geociencias.unam.mx)
 
 ## Templates
+
+Four template files (.csv format) can be downloaded at: 
+https://github.com/TheRFrog/shinyNORRRM/tree/main/inst/extdata
