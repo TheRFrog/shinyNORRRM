@@ -3,7 +3,7 @@ Reproduce the CIPW Norm
 
 ## Installation
 
-This package is currently on CRAN but you can install it via devtools (enjoy!):
+As this package is not currently on CRAN, install it via devtools:
 
 ```r
 devtools::install_github("TheRFrog/shinyNORRRM")
@@ -18,11 +18,9 @@ library(shinyNORRRM)
 # run the app
 shinyNORRRM()
 
+
 ## **Contact** 
 
-[Dr. Reneé González Guzmán](rguzman@geociencias.unam.mx)
+[Dr. Reneé González Guzmán] (mailto:rguzman@geociencias.unam.mx)
 
-## Templates
 
-Four templates files (*.csv format) can be downloaded at 
-shinyNORRRM/inst/extdata/
