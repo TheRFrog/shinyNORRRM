@@ -18,11 +18,11 @@ library(shinyNORRRM)
 # run the app
 shinyNORRRM()
 
+## **Contact** 
+
+[Dr. Reneé González Guzmán](rguzman@geociencias.unam.mx)
+
 ## Templates
 
 Four templates files (*.csv format) can be downloaded at 
 shinyNORRRM/inst/extdata/
-
-## **Contact** 
-
-[Dr. Reneé González Guzmán](rguzman@geociencias.unam.mx)
