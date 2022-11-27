@@ -23,8 +23,6 @@ shinyNORRRM()
 Four templates files (*.csv format) can be downloaded at 
 shinyNORRRM/inst/extdata/
 
-
-
 ## **Contact** 
 
 [Dr. Reneé González Guzmán](rguzman@geociencias.unam.mx)
